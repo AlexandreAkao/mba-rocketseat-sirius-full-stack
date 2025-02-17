@@ -25,5 +25,11 @@
     height: 40px;
     color: var(--base-white);
     border-radius: 8px;
+    cursor: pointer;
+    transition: 150ms ease background-color;
+
+    &:hover {
+      background-color: var(--base-gray-600);
+    }
   }
 }

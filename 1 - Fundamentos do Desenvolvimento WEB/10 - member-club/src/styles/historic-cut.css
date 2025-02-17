@@ -4,7 +4,7 @@
   align-items: center;
   background-color: var(--base-gray-100);
   border: 1px solid var(--base-gray-300);
-  padding: 20px;
+  padding-top: 20px;
   border-radius: 10px;
   gap: 20px;
   grid-area: historic;
@@ -17,6 +17,7 @@
   justify-content: space-between;
   padding-bottom: 16px;
   border-bottom: 1px solid var(--base-gray-300);
+  padding-inline: 20px;
 
   h2 {
     font: var(--heading-subtitle-sm);
@@ -35,6 +36,12 @@
   flex-direction: column;
   gap: 12px;
   width: 100%;
+  padding-inline: 24px 20px;
+  padding-bottom: 20px;
+  margin-right: 8px;
+  height: 300px;
+
+  overflow-y: scroll;
 }
 
 .history-item {

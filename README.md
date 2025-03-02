@@ -10,9 +10,9 @@ Repositório com intuito de agrupar os projeto do **MBA Fullstack Rocketseat Sir
 4. Desenvolvimento Mobile (Android e iOS)
 5. Soft Skills para Profissionais Full Stack
 
-## Fundamentos do Desenvolvimento Web
+## 1. Fundamentos do Desenvolvimento Web
 
-### 🚀 Tecnologias
+### 🚀 Tecnologias Fundamentos do Desenvolvimento Web
 
 - HTML
 - CSS
@@ -28,4 +28,16 @@ Repositório com intuito de agrupar os projeto do **MBA Fullstack Rocketseat Sir
 6. [LP Patins Animada](https://alexandreakao.github.io/mba-rocketseat-sirius-full-stack/1%20-%20Fundamentos%20do%20Desenvolvimento%20WEB/06%20-%20lp-patins-animada/)
 7. [Convert](https://alexandreakao.github.io/mba-rocketseat-sirius-full-stack/1%20-%20Fundamentos%20do%20Desenvolvimento%20WEB/07%20-%20convert/)
 8. [Refund](https://alexandreakao.github.io/mba-rocketseat-sirius-full-stack/1%20-%20Fundamentos%20do%20Desenvolvimento%20WEB/08%20-%20refund/)
-9. [Hairday](https://alexandreakao.github.io/mba-rocketseat-sirius-full-stack/1%20-%20Fundamentos%20do%20Desenvolvimento%20WEB/09%20-%20hairday/dist)
+
+## 2. Desenvolvimento Web Front-end
+
+### 🚀 Tecnologias Desenvolvimento Web Front-end
+
+- React
+- Vite
+- styled-components
+- phosphor-react
+- date-fns
+- react-hook-form
+- zod
+- immer

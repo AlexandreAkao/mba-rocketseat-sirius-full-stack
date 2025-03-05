@@ -41,3 +41,5 @@ Repositório com intuito de agrupar os projeto do **MBA Fullstack Rocketseat Sir
 - react-hook-form
 - zod
 - immer
+- use-context-selector
+- Axios

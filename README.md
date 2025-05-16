@@ -43,3 +43,8 @@ Repositório com intuito de agrupar os projeto do **MBA Fullstack Rocketseat Sir
 - immer
 - use-context-selector
 - Axios
+- react-query
+- vitest
+- testing-library
+- playwright
+- msw

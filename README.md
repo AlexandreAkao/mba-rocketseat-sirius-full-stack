@@ -48,3 +48,13 @@ Repositório com intuito de agrupar os projeto do **MBA Fullstack Rocketseat Sir
 - testing-library
 - playwright
 - msw
+- cypress
+- NextJs
+  - 'use client'
+  - layout
+  - loading
+  - Metadata
+  - Route Handlers
+  - opengraph
+  - Cache & Memoization
+  - generateStaticParams

@@ -58,3 +58,14 @@ Repositório com intuito de agrupar os projeto do **MBA Fullstack Rocketseat Sir
   - opengraph
   - Cache & Memoization
   - generateStaticParams
+
+## 3. Desenvolvimento Back-end
+
+### 🚀 Tecnologias Desenvolvimento Back-end
+
+- node
+- streams
+  - Readable
+  - Writable
+  - Transform
+- http server

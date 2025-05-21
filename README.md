@@ -69,3 +69,12 @@ Repositório com intuito de agrupar os projeto do **MBA Fullstack Rocketseat Sir
   - Writable
   - Transform
 - http server
+- knex
+  - migration
+- fastify
+- zod
+- vitest
+- supertest
+- prisma
+- jwt
+- dayjs

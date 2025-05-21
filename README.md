@@ -72,9 +72,18 @@ Repositório com intuito de agrupar os projeto do **MBA Fullstack Rocketseat Sir
 - knex
   - migration
 - fastify
+  - middlewares
 - zod
 - vitest
 - supertest
 - prisma
 - jwt
+  - token
+  - refresh token
+  - RBAC (Role-Based Access Control)
 - dayjs
+- github actions
+- DDD
+  - Aggregate
+  - WatchedList
+- Clean Architecture

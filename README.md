@@ -81,9 +81,14 @@ Repositório com intuito de agrupar os projeto do **MBA Fullstack Rocketseat Sir
   - token
   - refresh token
   - RBAC (Role-Based Access Control)
+  - RS256 (public/private)
 - dayjs
 - github actions
 - DDD
   - Aggregate
   - WatchedList
 - Clean Architecture
+- Nest
+  - @nestjs/config
+  - @nestjs/passport
+  - Guards

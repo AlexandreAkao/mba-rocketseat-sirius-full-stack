@@ -1,0 +1,75 @@
+@import "tailwindcss";
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+  /* Orange */
+  --orange-base: #f24d0d;
+  --orange-dark: #c43c08;
+
+  /* Blue */
+  --blue-light: #d7eff9;
+  --blue-base: #5ec5fd;
+  --blue-dark: #009cf0;
+
+  /* Shape */
+  --white: #ffffff;
+  --background: #fbf4f4;
+  --shape: #f5eaea;
+
+  /* Grayscale */
+  --gray-100: #adadad;
+  --gray-200: #949494;
+  --gray-300: #666666;
+  --gray-400: #3d3d3d;
+  --gray-500: #1d1d1d;
+
+  /* Semantic */
+  --danger: #dc3545;
+  --success: #28a745;
+
+  --title-md: bold 24px / 120%;
+}
+
+@layer utilities {
+  .font-title-md {
+    font: var(--title-md) var(--font-dm-sans);
+  }
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-dm-sans);
+  --font-mono: var(--font-poppins);
+
+  /* Market Place Colors */
+  --color-mp-orange-base: var(--orange-base);
+  --color-mp-orange-dark: var(--orange-dark);
+  --color-mp-blue-light: var(--blue-light);
+  --color-mp-blue-base: var(--blue-base);
+  --color-mp-blue-dark: var(--blue-dark);
+  --color-mp-white: var(--white);
+  --color-mp-background: var(--background);
+  --color-mp-shape: var(--shape);
+  --color-mp-gray-100: var(--gray-100);
+  --color-mp-gray-200: var(--gray-200);
+  --color-mp-gray-300: var(--gray-300);
+  --color-mp-gray-400: var(--gray-400);
+  --color-mp-gray-500: var(--gray-500);
+  --color-mp-danger: var(--danger);
+  --color-mp-success: var(--success);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: Arial, Helvetica, sans-serif;
+}

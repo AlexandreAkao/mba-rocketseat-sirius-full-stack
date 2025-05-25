@@ -112,3 +112,10 @@ Repositório com intuito de agrupar os projeto do **MBA Fullstack Rocketseat Sir
 - react-native-safe-area-context
 - expo-router
   - useLocalSearchParams
+- GlueStack
+- lucide-react-native
+- expo-image-picker
+- expo-file-system
+- expo-status-bar
+- react-hook-form
+- yup

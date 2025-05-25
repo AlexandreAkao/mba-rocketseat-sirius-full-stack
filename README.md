@@ -102,6 +102,9 @@ Repositório com intuito de agrupar os projeto do **MBA Fullstack Rocketseat Sir
 
 - React-Native
 - Expo
+  - Manager Workflow (Expo Go)
+  - Bare Workflow
+  - Expo prebuild
 - styled-components
 - phosphor-react-native
 - react-native-async-storage
@@ -119,3 +122,8 @@ Repositório com intuito de agrupar os projeto do **MBA Fullstack Rocketseat Sir
 - expo-status-bar
 - react-hook-form
 - yup
+- Firebase cloud messaging (FCM)
+- OneSignal
+- Expo dev client
+- APNS
+- expo application services

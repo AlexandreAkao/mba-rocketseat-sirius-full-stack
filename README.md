@@ -110,3 +110,5 @@ Repositório com intuito de agrupar os projeto do **MBA Fullstack Rocketseat Sir
   - Tab
   - Drawer
 - react-native-safe-area-context
+- expo-router
+  - useLocalSearchParams

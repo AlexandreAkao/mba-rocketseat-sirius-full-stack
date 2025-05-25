@@ -88,7 +88,25 @@ Repositório com intuito de agrupar os projeto do **MBA Fullstack Rocketseat Sir
   - Aggregate
   - WatchedList
 - Clean Architecture
+- Domain Event
+- Cache Redis
+- Cloudflare R2
 - Nest
   - @nestjs/config
   - @nestjs/passport
   - Guards
+
+## 4. Desenvolvimento Mobile
+
+### 🚀 Tecnologias Desenvolvimento Mobile
+
+- React-Native
+- Expo
+- styled-components
+- phosphor-react-native
+- react-native-async-storage
+- Navigation
+  - Stack
+  - Tab
+  - Drawer
+- react-native-safe-area-context
